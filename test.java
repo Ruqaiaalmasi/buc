@@ -1,1 +1,1 @@
-class abc
+clas
